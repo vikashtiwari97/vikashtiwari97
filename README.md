@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Book Framework & DevOps**
 
-- 💬 Ask me about **MEAR Stack Developer**
+- 💬 Ask me about **MERN Stack Developer**
 
 - 📫 How to reach me **vikashtiwari0027@gmail.com**
 
