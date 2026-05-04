@@ -32,10 +32,9 @@
 I am a passionate **Full Stack Software Engineer** specializing in building high-performance mobile and web applications. With deep expertise in **React Native** and the **MERN Stack**, I focus on creating scalable and user-centric digital solutions.
 
 * **Senior Developer**: Extensive experience in Android and iOS development using React Native.
-* **Founder**: Proprietor of VVRM Technologies and Kashvik Technologies.
 * **Content Creator**: Managing the YouTube channel **"BCA's Life"** for tech education.
 * **Continuous Learner**: Currently deep-diving into **Spring Boot Framework & DevOps**.
-* **Stack**: Expertise in MongoDB, Express.js, React, Node.js, and Java.
+* **Stack**: Expertise in MongoDB, Express.js, React, Node.js, and React Native.
 
 ---
 
