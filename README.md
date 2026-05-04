@@ -6,12 +6,12 @@
   <br/>
   
   <!-- DYNAMIC TYPING TITLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Tiwari;Java+Full+Stack+Developer;React+Native+Specialist;MERN+Stack+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Tiwari;Senior+Full+Stack+Developer;React+Native+Specialist;MERN+Stack+Expert" alt="Typing SVG" />
 
-  <!-- DYNAMIC SUBTITLE & VIEWS -->
+  <!-- DYNAMIC SUBTITLE & VIEWS (Fixed Stable Link) -->
   <h3>Crafting Seamless Mobile & Web Experiences</h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=vikashtiwari97&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=vikashtiwari97&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
   </p>
 
   <!-- SOCIAL BADGES -->
@@ -29,12 +29,13 @@
 
 ### 🚀 About Me
 
-I am a passionate **Full Stack Engineer** specializing in the **Java and MERN Ecosystems**, with a strong focus on building high-performance cross-platform mobile applications using **React Native**.
+I am a passionate **Full Stack Software Engineer** specializing in building high-performance mobile and web applications. With deep expertise in **React Native** and the **MERN Stack**, I focus on creating scalable and user-centric digital solutions.
 
-- 🔭 Currently exploring advanced architectural patterns.
-- 🌱 Deep diving into **Spring Boot Framework & DevOps** pipelines.
-- 💬 Ask me about: **MERN Stack, React Native, Java.**
-- ⚡ Fun fact: **My code works 90% of the time, the other 10% is where the fun is! (And yes, I am funny :) )**
+* **Senior Developer**: Extensive experience in Android and iOS development using React Native.
+* **Founder**: Proprietor of VVRM Technologies and Kashvik Technologies.
+* **Content Creator**: Managing the YouTube channel **"BCA's Life"** for tech education.
+* **Continuous Learner**: Currently deep-diving into **Spring Boot Framework & DevOps**.
+* **Stack**: Expertise in MongoDB, Express.js, React, Node.js, and Java.
 
 ---
 
@@ -62,24 +63,25 @@ I am a passionate **Full Stack Engineer** specializing in the **Java and MERN Ec
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikashtiwari97&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <!-- Top Languages Card (Fixed Stable Link) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikashtiwari97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   
-  <br/>
+  <br/><br/>
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikashtiwari97&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Stats Card (Fixed Stable Link) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikashtiwari97&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
-  <br/>
+  <br/><br/>
 
-  <!-- Streak Stats Card (Ye aapka pehle se chal raha tha, wahi rakha hai) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashtiwari97&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Streak Stats Card (Stable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashtiwari97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📫 Get In Touch</h3>
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
   <a href="mailto:vikashtiwari0027@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
