@@ -1,33 +1,86 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
-<h1 align="center">Hi 👋, I'm Vikash Tiwari</h1>
-<h3 align="center">Full Stack Developer || Java Developer</h3>
-<img align="right" alt-"Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<div align="center">
+  
+  <!-- PREMIUM HEADER GIF -->
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif" width="100%" alt="Header" />
+  
+  <br/>
+  
+  <!-- DYNAMIC TYPING TITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Tiwari;Java+Full+Stack+Developer;React+Native+Specialist;MERN+Stack+Expert" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashtiwari97&label=Profile%20views&color=0e75b6&style=flat" alt="vikashtiwari97" /> </p>
+  <!-- DYNAMIC SUBTITLE & VIEWS -->
+  <h3>Crafting Seamless Mobile & Web Experiences</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vikashtiwari97&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
+  </p>
 
-<p align="left"> <a href="https://twitter.com/its_vikash09" target="blank"><img src="https://img.shields.io/twitter/follow/its_vikash09?logo=twitter&style=for-the-badge" alt="its_vikash09" /></a> </p>
+  <!-- SOCIAL BADGES -->
+  <a href="https://twitter.com/its_vikash09" target="blank"><img src="https://img.shields.io/twitter/follow/its_vikash09?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/vikash-tiwari-7b5b2b244/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/vikash_tiwari009" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@bcaslife9034" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</div>
 
-- 🌱 I’m currently learning **Spring Book Framework & DevOps**
+---
 
-- 💬 Ask me about **MERN Stack Developer**
+<div align="center">
+  <img align="right" width="350" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="Coding">
+</div>
 
-- 📫 How to reach me **vikashtiwari0027@gmail.com**
+### 🚀 About Me
 
-- ⚡ Fun fact **I am funny. :)**
+I am a passionate **Full Stack Engineer** specializing in the **Java and MERN Ecosystems**, with a strong focus on building high-performance cross-platform mobile applications using **React Native**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/its_vikash09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_vikash09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vikash-tiwari-7b5b2b244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/vikash_tiwari009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikash_tiwari009" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bcaslife9034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bca's life" height="30" width="40" /></a>
-</p>
+- 🔭 Currently exploring advanced architectural patterns.
+- 🌱 Deep diving into **Spring Boot Framework & DevOps** pipelines.
+- 💬 Ask me about: **MERN Stack, React Native, Java.**
+- ⚡ Fun fact: **My code works 90% of the time, the other 10% is where the fun is! (And yes, I am funny :) )**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashtiwari97&show_icons=true&locale=en&layout=compact" alt="vikashtiwari97" /></p>
+### 🛠️ Tech Stack Ecosystem
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashtiwari97&show_icons=true&locale=en" alt="vikashtiwari97" /></p>
+<div align="center">
+  
+  <!-- Group 1: Mobile & Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,ps" alt="Frontend" />
+  
+  <br/>
+  
+  <!-- Group 2: Backend & Languages -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,cpp,cs,dotnet" alt="Backend" />
+  
+  <br/>
+  
+  <!-- Group 3: Database & Tools -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,linux,svg" alt="Tools" />
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashtiwari97&" alt="vikashtiwari97" /></p>
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikashtiwari97&layout=compact&theme=tokyonight" alt="Top Langs" />
+  
+  <br/>
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikashtiwari97&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <br/>
+
+  <!-- Streak Stats Card (Ye aapka pehle se chal raha tha, wahi rakha hai) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashtiwari97&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 Get In Touch</h3>
+  <a href="mailto:vikashtiwari0027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
